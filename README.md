@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [loading](loading)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/](https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/)
+- 📝 I regularly write articles on <a placeholder="LinkedIn" src="https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/](https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/" alt="LinkedIn"/>
 
 - 💬 Ask me about **Development**
 
