@@ -9,10 +9,9 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [loading](loading)
+- 👨‍💻 All of my projects are available at **Coming Soon**
 
-- 📝 I regularly write articles on <a placeholder="LinkedIn" src="https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/](https://www.linkedin.com/in/muhammad-anas-raza-b2b495289/" alt="LinkedIn"/>
-
+- 📝 I regularly write articles on **LinkedIn**
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **anusm9722@gmail.com**
@@ -34,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadanasraza&show_icons=true&locale=en" alt="muhammadanasraza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadanasraza&" alt="muhammadanasraza" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadanasraza&" alt="muhammadanasraza" /></p>
