@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at **<a href="https://anas-raza.vercel.app/">anusraza.com</a>**
+- 👨‍💻 All of my projects are available at **<a href="https://anusraza.vercel.app/">anusraza.com</a>**
 
 - 📝 I regularly write articles on **LinkedIn**
 - 💬 Ask me about **Development**
